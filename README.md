@@ -1,6 +1,9 @@
 # simple-pdf-cert
 
-Simple PDF Cert creator for NodeJS.
+Simple PDF Cert creator for NodeJS.  
+
+
+Simply whipped is up for a small project. Forks and contribution are welcomed and encouraged.
 
 ## Installation
 
@@ -33,4 +36,6 @@ simplePDFCert(sampleData, "output.pdf");
 
 ![Screenshot](/screenshot.PNG)
 
-##### [SamplePDF](/test.pdf)
+##### [SamplePDF](/test.pdf)  
+
+Inspired by [Nice Invoice](https://github.com/ayazshah2/nice-invoice)

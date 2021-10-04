@@ -1,6 +1,6 @@
 {
   "name": "simple-pdf-cert",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Create a simple pdf certificate",
   "main": "dist/index.js",
   "scripts": {
