@@ -2,9 +2,15 @@
 
 Simple PDF Cert creator for NodeJS.
 
+## Installation
+
+```npm i simple-pdf-cert```
+
 ## Sample Code:
 
 ```js
+const simplePDFCert = require("simple-pdf-cert");
+
 const sampleData = {
   logo: {
     path: "./sampleLogo.png",
@@ -25,6 +31,6 @@ simplePDFCert(sampleData, "output.pdf");
 
 ## Screenshot:  
 
-![Screenshot](screenshot.png)
+![Screenshot](/screenshot.png)
 
-##### ![SamplePDF](test.pdf)
+##### ![SamplePDF](/test.pdf)
