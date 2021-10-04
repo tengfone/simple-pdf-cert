@@ -25,6 +25,6 @@ simplePDFCert(sampleData, "output.pdf");
 
 ## Screenshot:  
 
-![Screenshot](screenshot.png)
+![Screenshot](/screenshot.PNG)
 
-##### ![SamplePDF](test.pdf)
+##### [SamplePDF](/test.pdf)
